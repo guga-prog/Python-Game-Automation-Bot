@@ -1,4 +1,7 @@
 # 🤖 Python Game Automation Bot
+<div align="center">
+  <img width="478" height="286" alt="image" src="https://github.com/user-attachments/assets/ef4e4de9-39b4-4d4f-9bd9-7054010fe7f7" />
+</div>
 
 > 🇧🇷 [Português](#português) | 🇺🇸 [English](#english)
 
@@ -33,6 +36,11 @@ Two versions available depending on server latency:
 ### About
 Built with AI assistance (Claude). Requirements, testing and iteration were done manually.
 
+I normally write my own code, but in this case I used AI to get the tool out 
+quickly for the players and for myself. I know AI-generated code can have 
+quality, security and scalability issues, so I made sure to understand the 
+main functions and libraries involved, not just ship it.
+
 ---
 
 ## Português
@@ -63,3 +71,10 @@ Duas versões disponíveis dependendo da latência do servidor:
 
 ### Sobre
 Desenvolvido com assistência de IA (Claude). Requisitos, testes e iterações foram feitos manualmente.
+
+Normalmente escrevo meu próprio código, mas nesse caso usei IA para 
+disponibilizar a ferramenta rapidamente para os jogadores e para mim mesmo. 
+Sei que código gerado por IA pode ter problemas de qualidade, segurança e 
+escalabilidade, então me preocupei em entender as principais funções e 
+bibliotecas do código, não só em entregar.
+
